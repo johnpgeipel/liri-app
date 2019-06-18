@@ -1,0 +1,288 @@
+**********MOVIE INFO*********
+Title: Psycho
+Release Year: 1960
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 97%
+Country of Production: USA
+Language: English
+Plot: A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.
+Actors: Anthony Perkins, Vera Miles, John Gavin, Janet Leigh
+*****************************
+**********MOVIE INFO*********
+Title: Pulp Fiction
+Release Year: 1994
+IMDB Rating: 8.9
+Rotten Tomatoes Rating: 92%
+Country of Production: USA
+Language: English, Spanish, French
+Plot: The lives of two mob hitmen, a boxer, a gangster & his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Actors: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+*****************************
+**********MOVIE INFO*********
+Title: American Psycho
+Release Year: 2000
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 68%
+Country of Production: USA, Canada
+Language: English, Spanish, Cantonese
+Plot: A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.
+Actors: Christian Bale, Justin Theroux, Josh Lucas, Bill Sage
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Masonic Temple Theatre (with The Raconteurs)
+Venue Location: Detroit
+Date of the Event: 2019-07-12T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Masonic Temple Theatre (with The Raconteurs)
+Venue Location: Detroit
+Date of the Event: 2019-07-13T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Eagles Ballroom (with The Raconteurs)
+Venue Location: Milwaukee
+Date of the Event: 2019-07-14T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Armory (with The Raconteurs)
+Venue Location: Minneapolis
+Date of the Event: 2019-07-15T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: WaMu Theater (with The Raconteurs)
+Venue Location: Seattle
+Date of the Event: 2019-07-18T19:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Queen Elizabeth Theatre (with The Raconteurs)
+Venue Location: Vancouver
+Date of the Event: 2019-07-19T19:00:11
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Queen Elizabeth Theatre (with The Raconteurs)
+Venue Location: Vancouver
+Date of the Event: 2019-07-20T19:00:07
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Edgefield (with The Raconteurs)
+Venue Location: Troutdale
+Date of the Event: 2019-07-21T19:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Fox Theater (with The Raconteurs)
+Venue Location: Oakland
+Date of the Event: 2019-07-23T19:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Fox Theater (with The Raconteurs)
+Venue Location: Oakland
+Date of the Event: 2019-07-24T19:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Greek Theatre (with The Raconteurs)
+Venue Location: Los Angeles
+Date of the Event: 2019-07-26T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Santa Barbara Bowl (with The Raconteurs)
+Venue Location: Santa Barbara
+Date of the Event: 2019-07-27T19:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Cal Coast Credit Union Open Air Theatre (with The Raconteurs)
+Venue Location: San Diego
+Date of the Event: 2019-07-28T19:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Railbird Festival (with The Raconteurs)
+Venue Location: Lexington-fayette
+Date of the Event: 2019-08-10T19:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Knoxville Civic Auditorium (with The Raconteurs)
+Venue Location: Knoxville
+Date of the Event: 2019-08-11T19:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Egyptian Room at Old National Centre (with The Raconteurs)
+Venue Location: Indianapolis
+Date of the Event: 2019-08-12T19:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Stage AE (with The Raconteurs)
+Venue Location: Pittsburgh
+Date of the Event: 2019-08-13T19:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Agora Theatre (with The Raconteurs)
+Venue Location: Cleveland
+Date of the Event: 2019-08-15T19:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Woodstock 50 (with The Raconteurs)
+Venue Location: Watkins Glen
+Date of the Event: 2019-08-16T19:00:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: The Anthem (with The Raconteurs)
+Venue Location: Washington
+Date of the Event: 2019-08-17T19:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: The Fillmore Charlotte (with The Raconteurs)
+Venue Location: Charlotte
+Date of the Event: 2019-08-18T19:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Township Auditorium (with The Raconteurs)
+Venue Location: Columbia
+Date of the Event: 2019-08-20T19:00:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Tabernacle (with The Raconteurs)
+Venue Location: Atlanta
+Date of the Event: 2019-08-21T19:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Tabernacle (with The Raconteurs)
+Venue Location: Atlanta
+Date of the Event: 2019-08-22T19:00:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Ryman Auditorium (with The Raconteurs)
+Venue Location: Nashville
+Date of the Event: 2019-08-29T19:00:00
+*****************************
+**********EVENT INFO*********
+25
+Name of the Venue: Ryman Auditorium (with The Raconteurs)
+Venue Location: Nashville
+Date of the Event: 2019-08-30T19:00:00
+*****************************
+**********EVENT INFO*********
+26
+Name of the Venue: Ryman Auditorium (with The Raconteurs)
+Venue Location: Nashville
+Date of the Event: 2019-08-31T19:00:35
+*****************************
+**********EVENT INFO*********
+27
+Name of the Venue: Red Hat Amphitheater (with The Raconteurs)
+Venue Location: Raleigh
+Date of the Event: 2019-09-03T19:00:00
+*****************************
+**********EVENT INFO*********
+28
+Name of the Venue: Hammerstein Ballroom (with The Raconteurs)
+Venue Location: New York
+Date of the Event: 2019-09-05T19:00:00
+*****************************
+**********EVENT INFO*********
+29
+Name of the Venue: Hammerstein Ballroom (with The Raconteurs)
+Venue Location: New York
+Date of the Event: 2019-09-06T19:00:00
+*****************************
+**********EVENT INFO*********
+30
+Name of the Venue: Kings Theatre (with The Raconteurs)
+Venue Location: Brooklyn
+Date of the Event: 2019-09-07T19:00:00
+*****************************
+**********EVENT INFO*********
+31
+Name of the Venue: House of Blues (with The Raconteurs)
+Venue Location: Boston
+Date of the Event: 2019-09-09T19:00:00
+*****************************
+**********EVENT INFO*********
+32
+Name of the Venue: House of Blues (with The Raconteurs)
+Venue Location: Boston
+Date of the Event: 2019-09-10T19:00:00
+*****************************
+**********EVENT INFO*********
+33
+Name of the Venue: Sony Centre for the Performing Arts (with The Raconteurs)
+Venue Location: Toronto
+Date of the Event: 2019-09-12T19:00:05
+*****************************
+**********EVENT INFO*********
+34
+Name of the Venue: Express Live! Indoor Pavilion (with The Raconteurs)
+Venue Location: Columbus
+Date of the Event: 2019-09-13T19:00:00
+*****************************
+**********EVENT INFO*********
+35
+Name of the Venue: Austin City Limits Festival (with The Raconteurs)
+Venue Location: Austin
+Date of the Event: 2019-10-04T19:00:00
+*****************************
+**********EVENT INFO*********
+36
+Name of the Venue: The Mission Ballroom (with The Raconteurs)
+Venue Location: Denver
+Date of the Event: 2019-10-09T19:00:00
+*****************************
+**********EVENT INFO*********
+37
+Name of the Venue: The Criterion (with The Raconteurs)
+Venue Location: Oklahoma City
+Date of the Event: 2019-10-12T19:00:00
+*****************************
+**********EVENT INFO*********
+38
+Name of the Venue: Cain's Ballroom (with The Raconteurs)
+Venue Location: Tulsa
+Date of the Event: 2019-10-13T19:00:00
+*****************************
+**********EVENT INFO*********
+39
+Name of the Venue: Cain's Ballroom (with The Raconteurs)
+Venue Location: Tulsa
+Date of the Event: 2019-10-14T19:00:00
+*****************************
+**********EVENT INFO*********
+40
+Name of the Venue: Cain's Ballroom (with The Raconteurs)
+Venue Location: Tulsa
+Date of the Event: 2019-10-16T19:00:00
+*****************************
+**********EVENT INFO*********
+41
+Name of the Venue: Harvest Bank Theatre at The Midland (with The Raconteurs)
+Venue Location: Kansas City
+Date of the Event: 2019-10-17T19:00:00
+*****************************
+**********EVENT INFO*********
+42
+Name of the Venue: The Pageant (with The Raconteurs)
+Venue Location: Saint Louis
+Date of the Event: 2019-10-18T19:00:00
+*****************************
